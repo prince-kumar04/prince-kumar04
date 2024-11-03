@@ -8,11 +8,10 @@
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXN1Z2syNXV5NjVwdnhicnJ2Z3NlNXV6OWM5Z2d0dWRhbGptaXB6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me 
 
-🎓 Computer Science Engineering Student  
-💻 Passionate about Backend Development  
+🎓 Electronics and Communicatioin Engineering student  
+💻 Passionate about Fullstack Developer 
 🌱 Currently focusing on advancing my Backend Development skills  
-⚡ Proficient in Python | Intermediate in C/C++  
-🔍 Open to collaboration on innovative projects
+⚡ Coding Languages : Intermediate in C/C++  | javascript | Python
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnI5Z2ltZXV4OW41cWVrY2MyZjJyMmw0ZnQyODVnbGpzZTAzcXVzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
 
@@ -24,27 +23,30 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+
                                                                                                                          <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnlxZDhkeXg2aTBwN2o1bm1yNDYwY3Nmb29hMTVlcXZ0YXhoMjVuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/z0hUv6bpBWUUOtShDf/giphy.webp" width="25%" align="right">
 ### Databases & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)                   
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+                  
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWd4ZWxmYWd4dWJmOWU4YzgxamRwMng2bXUxcTk4M2h1amh3YmF6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> My GitHub Stats📊
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prince -Kumar&show_icons=true&theme=radical)](https://github.com/Prince -Kumar)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prince -Kumar&show_icons=true&theme=radical)](https://github.com/Prince-Kumar04)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince -Kumar&layout=compact&theme=radical)](https://github.com/Prince -Kumar)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince -Kumar&layout=compact&theme=radical)](https://github.com/Prince-Kumar04)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prince -Kumar&theme=radical)](https://github.com/Prince -Kumar)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prince -Kumar&theme=radical)](https://github.com/Prince-Kumar04)
 
 </div>
 
@@ -56,7 +58,7 @@
 
 
 </div>
-
+<!-- 
 ## GSSOC(24) Badges
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="Postman Badge"/>
@@ -69,10 +71,10 @@
 <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
 <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a> -->
 
-
+<!-- 
 ## Hactoberfest'24
 [![An image of @Prince Kumar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Prince Kumar)](https://holopin.io/@Prince Kumar)
-
+ -->
 ---
 <div align="center">
 
