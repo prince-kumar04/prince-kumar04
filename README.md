@@ -4,7 +4,7 @@
 
 # Hey there! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJqM2h6Y2txdWF4eXNyM3Z4NmFlNDRqNWV1cWJ3dmpxOGJ0YmN1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Prince  Kumar
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=I'm+a+Coder;Backend+Web+Developer;Computer+Science+Student&center=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=I'm+a+Coder;Fullstack+Web+Developer;Electronics+and+Communication+Engineering+student&center=true)](https://git.io/typing-svg)
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXN1Z2syNXV5NjVwdnhicnJ2Z3NlNXV6OWM5Z2d0dWRhbGptaXB6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me 
 
@@ -24,9 +24,9 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  
 
-
-                                                                                                                         <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnlxZDhkeXg2aTBwN2o1bm1yNDYwY3Nmb29hMTVlcXZ0YXhoMjVuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/z0hUv6bpBWUUOtShDf/giphy.webp" width="25%" align="right">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnlxZDhkeXg2aTBwN2o1bm1yNDYwY3Nmb29hMTVlcXZ0YXhoMjVuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/z0hUv6bpBWUUOtShDf/giphy.webp" width="25%" align="right">
 ### Databases & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -42,11 +42,11 @@
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prince -Kumar&show_icons=true&theme=radical)](https://github.com/Prince-Kumar04)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prince-Kumar&show_icons=true&theme=radical)](https://github.com/Prince-Kumar04)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince -Kumar&layout=compact&theme=radical)](https://github.com/Prince-Kumar04)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Kumar&layout=compact&theme=radical)](https://github.com/Prince-Kumar04)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prince -Kumar&theme=radical)](https://github.com/Prince-Kumar04)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prince-Kumar&theme=radical)](https://github.com/Prince-Kumar04)
 
 </div>
 
@@ -80,9 +80,9 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2JsM2F2eDhybzR6M25lbWJhd2dyNWJidGQ3bnBybXE1bnpldDIzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QXPqYpSyBIMjBTtBbl/giphy.gif" width="60">
 
-![Profile Views](https://visitor-badge-deno.deno.dev/Prince -Kumar.Prince -Kumar.svg)
+![Profile Views](https://visitor-badge-deno.deno.dev/Prince-Kumar.Prince-Kumar.svg)
 
-**[⭐ Star my repositories if you find them interesting!](https://github.com/Prince -Kumar?tab=repositories)**
+**[⭐ Star my repositories if you find them interesting!](https://github.com/Prince-Kumar?tab=repositories)**
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnIxcm91dWVnaHF6MndueHdwbzY1eXBoOGdxbXJ6MGV6MjAxODM0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="60">
 
