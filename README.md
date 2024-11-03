@@ -39,7 +39,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
+<!--
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWd4ZWxmYWd4dWJmOWU4YzgxamRwMng2bXUxcTk4M2h1amh3YmF6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> My GitHub Stats📊
 
 <div align="center">
