@@ -27,6 +27,8 @@
   
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnlxZDhkeXg2aTBwN2o1bm1yNDYwY3Nmb29hMTVlcXZ0YXhoMjVuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/z0hUv6bpBWUUOtShDf/giphy.webp" width="25%" align="right">
+
+
 ### Databases & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -49,15 +51,15 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prince-Kumar&theme=radical)](https://github.com/Prince-Kumar04)
 
 </div>
+-->
 
+<!--
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam50aWxqcDk0cnhveXVmdW9kYWQ0ZGVxdnhhM3p6ZXBxaWd6c2RmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LPkczVwUYcMbXsRxIK/giphy.gif" width="40">**GITHUB TROPHIES** 🏆
 
 <div align="center">
-  
 <img src="https://github-profile-trophy.vercel.app/?username=Prince -Kumar&theme=onedark&column=-1&margin-w=8&no-frame=true&no-bg=true" alt="Prince -Kumar" /></a>
-
-
-</div>
+</div 
+  -->
 <!-- 
 ## GSSOC(24) Badges
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
