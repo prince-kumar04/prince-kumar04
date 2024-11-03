@@ -4,7 +4,8 @@
 
 # Hey there! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJqM2h6Y2txdWF4eXNyM3Z4NmFlNDRqNWV1cWJ3dmpxOGJ0YmN1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Prince  Kumar
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=I'm+a+Coder;Fullstack+Web+Developer;Electronics+and+Communication+Engineering+student&center=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E22FE4&height=45&lines=I'm+a+Coder;Fullstack+Web+Developer;Electronics+and+Communication+Engineering+student&center=true&width=100%)](https://git.io/typing-svg)
+
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXN1Z2syNXV5NjVwdnhicnJ2Z3NlNXV6OWM5Z2d0dWRhbGptaXB6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me 
 
